@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JepDeveloper/Dex-Explorer-V4/refs/heads/main/EEE.lua"))()
---All credit to jeb developer :D
